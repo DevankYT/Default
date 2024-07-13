@@ -7,5 +7,5 @@ form.addEventListener('submit', (e) => {
   e.preventDefault();
 
   // Redirect to thank-you.html
-  window.location.href = 'thank-you.html';
+  window.location.href = 'thank-you3.html';
 });
